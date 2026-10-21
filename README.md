@@ -2,7 +2,9 @@
 
 # Júlio Aguiar
 
-### Desenvolvimento web · Integração de sistemas · Tecnologia para logística
+### Análise de Dados · Ciência de Dados · Estatística · Business Intelligence
+
+Desenvolvimento de software e automação aplicados ao negócio.
 
 Perfil profissional dedicado aos projetos da **Expresso Geração**.
 
@@ -19,7 +21,17 @@ Projetos pessoais, estudos e outras iniciativas.
 
 Sou Júlio Aguiar, atuo com TI na Expresso Geração e estudo **Ciência de Dados na Universidade Federal do Ceará (UFC)**.
 
-Meu trabalho conecta desenvolvimento de software às necessidades da operação: organizar informações, automatizar rotinas e construir ferramentas para apoiar as equipes. Nesta conta, reúno projetos voltados à logística, à gestão de recursos e à integração entre sistemas.
+Minha área envolve **Análise de Dados, Ciência de Dados, Estatística e Business Intelligence (BI)**, em conjunto com desenvolvimento de software, automação e integração de sistemas. Busco compreender problemas de negócio, explorar dados e transformar informações em ferramentas e análises que apoiem a tomada de decisões.
+
+Nesta conta profissional, reúno uma parte desse trabalho: projetos voltados à logística, à gestão de recursos e aos processos internos da Expresso Geração. Meus estudos e outras iniciativas também estão no perfil principal **[@julioaguiar07](https://github.com/julioaguiar07)**.
+
+## Áreas de atuação e estudo
+
+- **Análise de Dados:** organização, exploração e interpretação de dados para identificar padrões e responder a perguntas de negócio.
+- **Ciência de Dados:** investigação de problemas e estudo de métodos analíticos e modelos para extrair conhecimento dos dados.
+- **Estatística:** compreensão de variabilidade, relações e incertezas para fundamentar análises e conclusões.
+- **Business Intelligence:** construção de indicadores, dashboards e relatórios para acompanhar resultados e apoiar decisões.
+- **Desenvolvimento e automação:** criação de aplicações e integrações que conectem dados, pessoas e processos.
 
 ## Soluções que fazem parte deste perfil
 
@@ -34,7 +46,7 @@ Meu trabalho conecta desenvolvimento de software às necessidades da operação:
 
 > Os repositórios dos sistemas corporativos são privados. Esta página apresenta uma visão geral dos projetos.
 
-## Tecnologias utilizadas
+## Tecnologias presentes nos projetos
 
 **Interfaces e aplicações web**  
 TypeScript · React · Next.js · TanStack · Tailwind CSS
@@ -49,6 +61,9 @@ Leaflet · Recharts · ECharts · ExcelJS
 Vercel · Git · GitHub
 
 ## Foco do meu trabalho
+
+- **Apoiar decisões com dados:** combinar análise, estatística e conhecimento do negócio para interpretar resultados.
+- **Transformar dados em informação útil:** estruturar indicadores e visualizações que ajudem a compreender o desempenho e identificar oportunidades.
 
 - **Digitalizar processos:** transformar controles dispersos em aplicações organizadas.
 - **Conectar sistemas:** integrar dados operacionais e reduzir tarefas manuais.
