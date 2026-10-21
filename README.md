@@ -2,9 +2,9 @@
 
 # Júlio Aguiar
 
-### Análise de Dados · Ciência de Dados · Estatística · Business Intelligence
+### Análise de Dados · Ciência de Dados · Business Intelligence · Inteligência Artificial
 
-Desenvolvimento de software e automação aplicados ao negócio.
+Estatística, storytelling com dados e automação aplicados ao negócio.
 
 Perfil profissional dedicado aos projetos da **Expresso Geração**.
 
@@ -21,7 +21,9 @@ Projetos pessoais, estudos e outras iniciativas.
 
 Sou Júlio Aguiar, atuo com TI na Expresso Geração e estudo **Ciência de Dados na Universidade Federal do Ceará (UFC)**.
 
-Minha área envolve **Análise de Dados, Ciência de Dados, Estatística e Business Intelligence (BI)**, em conjunto com desenvolvimento de software, automação e integração de sistemas. Busco compreender problemas de negócio, explorar dados e transformar informações em ferramentas e análises que apoiem a tomada de decisões.
+Minha área envolve **Análise de Dados, Ciência de Dados, Estatística e Business Intelligence (BI)**. Trabalho com **Python, SQL, Power BI e Excel**, conectando exploração de dados, construção de indicadores e **storytelling com dados** para comunicar resultados e apoiar a tomada de decisões.
+
+Também trabalho com **Inteligência Artificial**, **orquestração de agentes (agent orchestration)** e **engenharia de prompts**, em conjunto com desenvolvimento de software, automação e integração de sistemas. Meu foco é aplicar essas competências a problemas reais de negócio, da análise à construção de soluções.
 
 Nesta conta profissional, reúno uma parte desse trabalho: projetos voltados à logística, à gestão de recursos e aos processos internos da Expresso Geração. Meus estudos e outras iniciativas também estão no perfil principal **[@julioaguiar07](https://github.com/julioaguiar07)**.
 
@@ -31,7 +33,19 @@ Nesta conta profissional, reúno uma parte desse trabalho: projetos voltados à 
 - **Ciência de Dados:** investigação de problemas e estudo de métodos analíticos e modelos para extrair conhecimento dos dados.
 - **Estatística:** compreensão de variabilidade, relações e incertezas para fundamentar análises e conclusões.
 - **Business Intelligence:** construção de indicadores, dashboards e relatórios para acompanhar resultados e apoiar decisões.
+- **Storytelling com dados:** transformar análises em narrativas claras, combinando contexto, visualizações e conclusões relevantes para cada público.
+- **Inteligência Artificial e agentes:** aplicação de IA em fluxos de trabalho, com orquestração de agentes e engenharia de prompts para orientar tarefas e respostas.
 - **Desenvolvimento e automação:** criação de aplicações e integrações que conectem dados, pessoas e processos.
+
+## Competências e ferramentas
+
+| Área | Competências e ferramentas |
+| :--- | :--- |
+| **Análise e Ciência de Dados** | Python · SQL · Estatística · Análise exploratória de dados |
+| **Business Intelligence** | Power BI · Excel · Indicadores · Dashboards · Relatórios |
+| **Comunicação de resultados** | Storytelling com dados · Visualização de dados · Interpretação de análises |
+| **Inteligência Artificial** | Engenharia de prompts · Orquestração de agentes · Automação com IA |
+| **Desenvolvimento e integração** | Aplicações web · APIs · Automação de processos · Integração de sistemas |
 
 ## Soluções que fazem parte deste perfil
 
@@ -64,7 +78,6 @@ Vercel · Git · GitHub
 
 - **Apoiar decisões com dados:** combinar análise, estatística e conhecimento do negócio para interpretar resultados.
 - **Transformar dados em informação útil:** estruturar indicadores e visualizações que ajudem a compreender o desempenho e identificar oportunidades.
-
 - **Digitalizar processos:** transformar controles dispersos em aplicações organizadas.
 - **Conectar sistemas:** integrar dados operacionais e reduzir tarefas manuais.
 - **Dar visibilidade à operação:** apresentar informações por meio de mapas, painéis e relatórios.
